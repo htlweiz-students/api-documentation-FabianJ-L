@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "KyBr0tamuxjKqTCWUwxlXQqVVRiZtxGlfQHSq/mKSpd1W/nSgk38cquWiiNs+Hw4vf8uNmuyYSbhoJ5wzF1K+A==",
+  "dgSpecHash": "dZ1dycgidpm8d+f13N5BLkWP6JI0ietkdu7KKoZLzoBkIOuEPPybGbzsgHRww3dau9HrAzFRogOgIhA9fc/jgQ==",
   "success": true,
   "projectFilePath": "/config/workspace/5.Assignment/api-documentation-FabianJ-L/AverageCalculator.Tests/AverageCalculator.Tests.csproj",
   "expectedPackageFiles": [

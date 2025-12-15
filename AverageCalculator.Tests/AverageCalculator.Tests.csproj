@@ -22,4 +22,8 @@
     </PackageReference>
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\AverageCalculator\AverageCalculator.csproj" />
+  </ItemGroup>
+
 </Project>
