@@ -1,0 +1,12 @@
+/config/workspace/5.Assignment/api-documentation-FabianJ-L/AverageCalculator/bin/Debug/net8.0/AverageCalculator.deps.json
+/config/workspace/5.Assignment/api-documentation-FabianJ-L/AverageCalculator/bin/Debug/net8.0/AverageCalculator.dll
+/config/workspace/5.Assignment/api-documentation-FabianJ-L/AverageCalculator/bin/Debug/net8.0/AverageCalculator.pdb
+/config/workspace/5.Assignment/api-documentation-FabianJ-L/AverageCalculator/obj/Debug/net8.0/AverageCalculator.GeneratedMSBuildEditorConfig.editorconfig
+/config/workspace/5.Assignment/api-documentation-FabianJ-L/AverageCalculator/obj/Debug/net8.0/AverageCalculator.AssemblyInfoInputs.cache
+/config/workspace/5.Assignment/api-documentation-FabianJ-L/AverageCalculator/obj/Debug/net8.0/AverageCalculator.AssemblyInfo.cs
+/config/workspace/5.Assignment/api-documentation-FabianJ-L/AverageCalculator/obj/Debug/net8.0/AverageCalculator.csproj.CoreCompileInputs.cache
+/config/workspace/5.Assignment/api-documentation-FabianJ-L/AverageCalculator/obj/Debug/net8.0/AverageCalculator.sourcelink.json
+/config/workspace/5.Assignment/api-documentation-FabianJ-L/AverageCalculator/obj/Debug/net8.0/AverageCalculator.dll
+/config/workspace/5.Assignment/api-documentation-FabianJ-L/AverageCalculator/obj/Debug/net8.0/refint/AverageCalculator.dll
+/config/workspace/5.Assignment/api-documentation-FabianJ-L/AverageCalculator/obj/Debug/net8.0/AverageCalculator.pdb
+/config/workspace/5.Assignment/api-documentation-FabianJ-L/AverageCalculator/obj/Debug/net8.0/ref/AverageCalculator.dll
