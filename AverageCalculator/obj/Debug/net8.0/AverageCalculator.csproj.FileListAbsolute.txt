@@ -10,3 +10,4 @@
 /config/workspace/5.Assignment/api-documentation-FabianJ-L/AverageCalculator/obj/Debug/net8.0/refint/AverageCalculator.dll
 /config/workspace/5.Assignment/api-documentation-FabianJ-L/AverageCalculator/obj/Debug/net8.0/AverageCalculator.pdb
 /config/workspace/5.Assignment/api-documentation-FabianJ-L/AverageCalculator/obj/Debug/net8.0/ref/AverageCalculator.dll
+/config/workspace/5.Assignment/api-documentation-FabianJ-L/AverageCalculator/bin/Debug/net8.0/MyLib.xml

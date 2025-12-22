@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>AverageCalculator</name>
+    </assembly>
+    <members>
+        <member name="T:AverageCalculator.Class1">
+            <summary>
+            Berechnet den Durchschnitt von einer Sammlung von Zahlen und verwaltet die Elemente.
+            </summary>
+        </member>
+        <member name="M:AverageCalculator.Class1.#ctor(System.Double[])">
+            <summary>
+            Erstellt eine neue Instanz von <see cref="T:AverageCalculator.Class1"/> und fügt optional vorhandene Werte hinzu.
+            </summary>
+            <param name="values">Ein Array von Anfangswerten, das der Liste hinzugefügt werden soll. Kann <c>null</c> sein.</param>
+        </member>
+        <member name="M:AverageCalculator.Class1.Add(System.Double)">
+            <summary>
+            Fügt einen einzelnen Wert zur Sammlung hinzu.
+            </summary>
+            <param name="value">Der Wert, der hinzugefügt werden soll.</param>
+        </member>
+        <member name="M:AverageCalculator.Class1.Add(System.Double[])">
+            <summary>
+            Fügt mehrere Werte zur Sammlung hinzu.
+            </summary>
+            <param name="values">Ein Array von Werten, die hinzugefügt werden sollen. Kann <c>null</c> oder leer sein.</param>
+        </member>
+        <member name="M:AverageCalculator.Class1.GetAverage">
+            <summary>
+            Berechnet den Durchschnitt aller in der Sammlung enthaltenen Werte.
+            </summary>
+            <returns>Der Durchschnittswert der Sammlung.</returns>
+            <exception cref="T:System.InvalidOperationException">Wird geworfen, wenn keine Werte in der Sammlung vorhanden sind.</exception>
+        </member>
+        <member name="M:AverageCalculator.Class1.GetElements">
+            <summary>
+            Gibt alle Elemente der Sammlung als Array zurück.
+            </summary>
+            <returns>Ein Array aller Elemente der Sammlung.</returns>
+        </member>
+        <member name="M:AverageCalculator.Class1.Count">
+            <summary>
+            Gibt die Anzahl der in der Sammlung enthaltenen Elemente zurück.
+            </summary>
+            <returns>Anzahl der Elemente in der Sammlung.</returns>
+        </member>
+    </members>
+</doc>
